@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Murvapes</string>
+    <string name="title_activity_main">Murvapes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recipe_create">RecipeCreateActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="hint_search">Search</string>
+    <string name="icon_star">&#xf005;</string>
+    <string name="icon_user">&#xf2be;</string>
+    <string name="author_string_with_icon">&#xf2be; Author</string>
+    <string name="starred_string_with_icon">&#xf005; Starred</string>
+    <string name="recipe_grade_icon">&#xf184;</string>
+    <string name="token_storage">token</string>
+    <string name="token_storage_decoded">token_decoded</string>
+    <string name="recipe_storage_favourite">favourite</string>
+</resources>

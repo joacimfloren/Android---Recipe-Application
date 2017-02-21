@@ -1,0 +1,30 @@
+
+
+<TableRow
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="6"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal">
+
+<TextView
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:text="1."
+    android:textStyle="bold"
+    android:layout_weight="1"
+    android:textAlignment="center"
+    android:textColor="@color/colorPrimaryDarkDark"
+    android:id="@+id/orderNo"/>
+
+<TextView
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae ligula metus."
+    android:layout_weight="5"
+    android:id="@+id/descriptionText" />
+
+</TableRow>

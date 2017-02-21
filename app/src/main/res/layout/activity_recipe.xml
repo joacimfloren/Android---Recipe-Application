@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:weightSum="7"
+    android:background="@color/colorAccent"
+    android:orientation="vertical"
+    android:id="@+id/recipeRoot">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:background="@color/colorPrimary"
+        android:weightSum="10"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/recipeImage"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="6.5"
+            android:src="@drawable/placeholder_recipe"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3.5"
+            android:weightSum="6"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/titleString"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:textSize="13dp"
+                android:textColor="@color/colorWhite"
+                android:text="-"
+                android:textStyle="bold"
+                android:gravity="bottom"
+                android:textAlignment="center" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="4"
+                android:orientation="horizontal"
+                android:weightSum="5">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1.5"
+                    android:weightSum="6"
+                    android:orientation="vertical">
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.9"/>
+
+                    <TextView
+                        android:id="@+id/authorTitleString"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1.6"
+                        android:textSize="12dp"
+                        android:textColor="@color/colorPrimaryDarkDark"
+                        android:textAlignment="center"
+                        android:gravity="top"
+                        android:text="@string/author_string_with_icon" />
+
+                    <TextView
+                        android:id="@+id/authorString"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:textSize="12dp"
+                        android:textColor="@color/colorWhite"
+                        android:textAlignment="center"
+                        android:gravity="top"
+                        android:text="-" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/descriptionString"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:textSize="12dp"
+                    android:textColor="@color/colorWhite"
+                    android:textAlignment="center"
+                    android:paddingTop="9dp"
+                    android:text="..."/>
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1.5">
+
+                    <ImageView
+                        android:id="@+id/starIcon"
+                        android:src="@drawable/star_icon"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_centerVertical="true"
+                        android:layout_centerHorizontal="true"
+                        android:onClick="starRecipe"/>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4">
+
+
+        <TableLayout
+            android:id="@+id/contentLayout"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/directionsContent"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/noDirectionsText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="No directions found..."
+                    android:layout_marginTop="10dp"
+                    android:padding="10dp"
+                    android:textAlignment="center"/>
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/direction_recyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                </android.support.v7.widget.RecyclerView>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@color/colorPrimaryDark">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Comments"
+                        android:textColor="@color/colorWhite"
+                        android:textStyle="bold"/>
+
+                </TableRow>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/commentsContent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="15dp"
+                android:paddingBottom="10dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@color/colorPrimary"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/noCommentsText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="No comments found..."
+                    android:textColor="@color/colorWhite"
+                    android:padding="10dp"/>
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/comments_recyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                </android.support.v7.widget.RecyclerView>
+
+            </LinearLayout>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:background="@color/colorPrimaryDark"
+                android:paddingLeft="14dp"
+                android:paddingRight="14dp"
+                android:text="Create comment..."
+                android:textSize="12sp"
+                android:textColor="@color/colorWhite"
+                android:onClick="createComment" />
+
+            <fragment
+                android:id="@+id/recipeMap"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                class="com.google.android.gms.maps.SupportMapFragment">
+            </fragment>
+
+        </TableLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/nav_recipe_lists">
+        <item
+            android:id="@+id/nav_recipes"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="All recipes" />
+        <item
+            android:id="@+id/nav_myfavourites"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="My favourites" />
+        <item
+            android:id="@+id/nav_myrecipes"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="My recipes" />
+    </group>
+
+    <group android:checkableBehavior="none"
+        android:id="@+id/nav_manage_account">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Logout" />
+    </group>
+
+</menu>

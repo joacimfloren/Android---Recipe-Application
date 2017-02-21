@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_0a77861ab408818ee2a7f836d1f39da214fd4444/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_e02fc2d085e1e04e53066d3241ec96b5be096da5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_a559ab5730c1891f9cb244a340d8f8291604f26c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_5dc33a27268c7075641864e83aa88384491666ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ef7b28472d72f9c3c294ca2d9f2afced669873e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_f00068c9489e9d9c422cb845a4f098b7af714e7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_6ad76fffe1a13e7b879adb14e914402725e6cbff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b6434a57ef475914f4748c141bb6f6a4465686fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_a82bff809e082f9b966a9e8028c8ec5507006a9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_3c37448330dae4515f42f51206aed484608c3e91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5d0206a25f64743b5f387e2172258b0b5a311483/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_62143ff4fdce1d1bd81222d84312e809233c6c8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_d02164d1e08a6b2604a47c44dd1b05cc39b65416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_51e8a56b612510d40b48f2875657219d978f6a6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_7478e2fbc3b96608b82505d3b806a2f6a69889b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_d4f94030ac49dbaa3a51a2de8a08acb6778dedac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_685321b268635d5f758863c196e7294953e27df4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fa0e1474049fe6e6e8e1f057c5e8cc7bb9f534c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2858204e39ae9ba9af6898e2e76b76aba3668606/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="317bf5cfff85f36f27c2bbf570d31f979e69adfe">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0dc15a665d47c309e8bd6166c39717b0b1fdb829/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c7cc8974d6a098e2bc67f6f8f938221a0b6bfd6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4bb9ccb9ba12a968ac37845b6b58ec4b3f3a6dc6">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a78b0c9e01ebcb4fe6f2dda615d368e37bdf2ed8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_dbdfbe14dc517ed9629665b8a80341b87ce2df7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c66610ee0bedaa3110154c5bbbd1fc115f748351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_4f361e5a6ee85b10a6b73c62a84e304e39c0b272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/joacimfloren/AndroidStudioProjects/Murvapes/Murvapes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_5382be57b97ad8a1acae90022d398b729e48ee73/classes.dex" />
+    </item>
+
+</items>
